@@ -13,6 +13,7 @@ Data Structures and Algorithms Questions in C++.
 -   Strings
 -   Bit Manipulation
 -   Linked List
+-   Linked List loop detection
 
 ## Algorithms
 
