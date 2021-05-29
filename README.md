@@ -6,6 +6,8 @@ Data Structures and Algorithms Questions in C++.
 
 -   Vector
 -   Maps
+-   Stack
+-   Queue
 
 ## Data Structures
 
@@ -14,6 +16,7 @@ Data Structures and Algorithms Questions in C++.
 -   Bit Manipulation
 -   Linked List
 -   Linked List loop detection
+-   Tree Traversals
 
 ## Algorithms
 
