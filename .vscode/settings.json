@@ -1,8 +1,9 @@
 {
     "files.associations": {
-        "*.html": "html",
-        "iostream": "cpp",
-        "xlocale": "cpp",
-        "stack": "cpp"
+      "*.html": "html",
+      "iostream": "cpp",
+      "xlocale": "cpp",
+      "stack": "cpp",
+      "vector": "cpp"
     }
 }
