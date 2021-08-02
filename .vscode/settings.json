@@ -1,11 +1,12 @@
 {
-    "files.associations": {
-      "*.html": "html",
-      "iostream": "cpp",
-      "xlocale": "cpp",
-      "stack": "cpp",
-      "vector": "cpp",
-      "xtree": "cpp",
-      "map": "cpp"
-    }
+	"files.associations": {
+		"*.html": "html",
+		"iostream": "cpp",
+		"xlocale": "cpp",
+		"stack": "cpp",
+		"vector": "cpp",
+		"xtree": "cpp",
+		"map": "cpp",
+		"queue": "cpp"
+	}
 }
